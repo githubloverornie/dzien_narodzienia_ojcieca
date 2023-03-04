@@ -30,7 +30,6 @@
   margin-left: 90px;
 } */
 .text_header{
-  font-size: 18px;
   color:#000 ;
   font-weight: 700;
   font-family: 'Pacifico', cursive;
@@ -152,6 +151,11 @@ background: linear-gradient(90deg, rgba(2,3,11,1) 0%, rgba(215,11,7,1) 100%);
 .li:nth-child(1), .li:nth-child(2), .li:nth-child(3) {
   margin-right: 100px;
 }
+}
+@media screen and (max-width:480px){
+  .text_header{
+    font-size: 18px;
+  }
 }
 
   
