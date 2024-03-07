@@ -10,6 +10,14 @@
   animation: myAnim 2s ease-in-out 0s 1 normal forwards;
   cursor:grab;
 }
+.text_pregrid{
+	color: black;
+	text-align: center;
+	font-size: 30px;
+	font-weight: bold;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
 .kwad{
   background-color:darkslateblue;
   width: 200px;
