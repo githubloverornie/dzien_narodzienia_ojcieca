@@ -10,6 +10,9 @@
   animation: myAnim 2s ease-in-out 0s 1 normal forwards;
   cursor:grab;
 }
+.section_forgiv{
+	background-color: wheat;
+}
 .text_pregrid{
 	color: black;
 	text-align: center;
